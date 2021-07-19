@@ -1,0 +1,1 @@
+java -cp target/jano-1.0-SNAPSHOT.jar org.home.brinck.App
