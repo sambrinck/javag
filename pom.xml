@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.home.brinck</groupId>
-  <artifactId>jano</artifactId>
+  <artifactId>javag</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>jano</name>
+  <name>javag</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
