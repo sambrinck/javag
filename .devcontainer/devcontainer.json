@@ -21,6 +21,7 @@
 	"runArgs": [
 		"--net=host"
 	],
+	"initializeCommand": "local.xlaunch",
 	// Set *default* container specific settings.json values on container create.
 	// "settings": { 
 	// 	"java.home": "/docker-java-home"
